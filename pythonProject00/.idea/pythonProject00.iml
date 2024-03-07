@@ -10,4 +10,7 @@
   <component name="PyDocumentationSettings">
     <option name="renderExternalDocumentation" value="true" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="8a3b7125-1ca1-4ece-8e35-2ff48f3ca42a" />
+  </component>
 </module>

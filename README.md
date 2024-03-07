@@ -1,12 +1,10 @@
 # Python_project
 
-- **folder 01：dash and dashbase**
+- **folder 01：dash and dash_base**
 
 > dash is designed for front-end web pages
 
-https://plotly.com/dash/
-
-
+[dash的官网](https://plotly.com/dash/)
 
 ---
 

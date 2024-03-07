@@ -1,4 +1,5 @@
-# print('hello python')
+print('hello python')
+print("中心小学")
 # a = 20
 # a = a+1
 # print(type(a))
@@ -11,9 +12,9 @@
 # 输出 %为占位符
 # s--字符串；d/i--有符号的十进制整数
 # name = "曹媛"
-# aclass = "中心小学4年级2班"
+# c_lass = "中心小学4年级2班"
 # _age = 10
-# print('我的名字：%s;来自【%s】;今年%d岁'%(name,aclass,_age))
+# print('我的名字：%s;来自【%s】;今年%d岁'%(name,c_class,_age))
 # print("我是个\n聪明人")# \n表示换行
 # 输出也可以用.format表示
 # print("姓名：{}".format(name))
@@ -72,8 +73,8 @@
 
 
 # # if-else 的嵌套使用
-# xuefen = int(input('请输入你的学分：'))
-# if xuefen > 16:
+# xue_fen = int(input('请输入你的学分：'))
+# if xue_fen > 16:
 #     grade = int(input("请输入你的成绩："))
 #     if grade >= 90:
 #         print("优秀")
