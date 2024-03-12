@@ -1,0 +1,7 @@
+
+@
+AI-base/02.ipynb,e\7\e70a34607b3b390209105a9fc5973cc84aad7592
+E
+AI-base/Numpy01.ipynb,8\f\8fadd085733401d550e84b543622341450f0d2f0
+F
+AI-base/Pandas01.ipynb,2\1\216394985580f159f64a987878c07f52807e90ab
