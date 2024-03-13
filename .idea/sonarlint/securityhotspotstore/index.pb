@@ -15,3 +15,5 @@ Z
 *dashBase/usa-agricultural-exports-2011.csv,2\4\24c3653d65c04fe90e122b664ca6b9ad6441f732
 K
 dashBase/test-01-proplus.py,e\f\efde46ab37f0c4f21cdb71a195b6b9102eb20693
+_
+/pythonProject_01/data_spell_py/AI-base/01.ipynb,c\9\c9a27adbda8bf8670b218a46c735127b6965599f
